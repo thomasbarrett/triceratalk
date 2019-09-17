@@ -1,0 +1,20 @@
+{
+    "name": "triceratalk",
+    "version": "1.0.0",
+    "description": "A dinosaur themed instant messaging app",
+    "main": "index.js",
+    "scripts": {
+      "start": "sudo node ."
+    },
+    "author": "Thomas Barrett",
+    "license": "ISC",
+    "dependencies": {
+      "bcrypt": "^3.0.6",
+      "body-parser": "^1.19.0",
+      "cookie-parser": "^1.4.4",
+      "express": "^4.17.1",
+      "jsonwebtoken": "^8.5.1",
+      "mongodb": "^3.3.0-beta2"
+    }
+  }
+  
